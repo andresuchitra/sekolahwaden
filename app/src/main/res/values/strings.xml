@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SekolahWaden</string>
+    <string name="welcome_name">Ahlan Wa Sahlan</string>
+    <string-array name="planet">
+        <item>Pilih:</item>
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+    </string-array>
+    <string-array name="jenjang">
+        <item>Pilih</item>
+        <item>TK</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>S1 - Sarjana</item>
+        <item>S2 - Magister</item>
+        <item>S3 - Doktor</item>
+    </string-array>
+
+    <string name="title_activity_splash">Sekolahku</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
